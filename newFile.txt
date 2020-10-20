@@ -1,0 +1,10 @@
+,1
+a,2
+file,2
+assignment,1
+this,1
+for,1
+short,1
+is,2
+it,1
+sample,1
